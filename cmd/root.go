@@ -2,7 +2,7 @@ package cmd
 
 import (
 	"fmt"
-	"github.com/nick-triller/damplify/pkg"
+	"github.com/kalpinus/damplify/pkg"
 	"log"
 	"net"
 	"os"
