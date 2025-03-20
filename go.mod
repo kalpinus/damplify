@@ -1,4 +1,4 @@
-module github.com/nick-triller/damplify
+module github.com/kalpinus/damplify
 
 go 1.14
 
