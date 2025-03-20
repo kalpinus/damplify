@@ -73,7 +73,7 @@ func createPacket(targetIP net.IP, targetPort int, resolverIP net.IP) []byte {
 		// Entries
 		Questions: []layers.DNSQuestion{
 			{
-				Name:  []byte("cloudflare.com"),
+				Name:  []byte("ioh.co.id"),
 				Type:  layers.DNSTypeTXT,
 				Class: 1,
 			},
