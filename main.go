@@ -1,6 +1,6 @@
 package main
 
-import "github.com/nick-triller/damplify/cmd"
+import "github.com/kalpinus/damplify/cmd"
 
 func main() {
 	cmd.Execute()
